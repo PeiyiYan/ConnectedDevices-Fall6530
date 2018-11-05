@@ -1,0 +1,25 @@
+[smtp.cloud]
+host          = Not Set
+port          = 465
+fromAddr      = Not Set
+toAddr        = Not Set
+toMediaAddr   = Not Set
+toTxtAddr     = Not Set
+authToken     = Not Set
+enableAuth    = True
+enableCrypt   = True
+
+[mqtt.cloud]
+userNameToken = Not Set
+authToken = Not Set
+host = test.mosquitto.org
+port = 1883
+securePort = 1884
+defaultQos = 2
+enableAuth = False
+enableCrypt = False
+
+[device]
+enableEmulator = True
+pollCycleSecs = 60
+nominalTemp = 20
