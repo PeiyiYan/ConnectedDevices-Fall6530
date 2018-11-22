@@ -1,0 +1,5 @@
+package iotConnectedDevicesGateway.labs.module7;
+
+public class CoapClIENT {
+
+}

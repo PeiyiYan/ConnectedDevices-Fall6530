@@ -1,0 +1,39 @@
+package iotConnectedDevicesGateway.labs.module7;
+
+
+import java.util.logging.Logger;
+
+import org.eclipse.californium.core.CoapResource;
+import org.eclipse.californium.core.coap.CoAP.ResponseCode;
+import org.eclipse.californium.core.server.resources.CoapExchange;
+
+public class TempResourceHandler extends CoapResource {
+	
+	//static
+	private static final Logger _Logger =
+			Logger.getLogger(ResourceTemp.class.getName());
+	
+	//constructors
+
+	public ResourceTemp(String name) {
+		super(name);
+		// TODO Auto-generated constructor stub
+	}
+
+	public ResourceTemp(String name, boolean visible) {
+		super(name, visible);
+		// TODO Auto-generated constructor stub
+	}
+
+	//public method
+	
+	public void handleGet(CoapExchange ce)
+	{
+		String responseMsg = "Here's the reponse to temp request: " + super.getName();
+				
+		ce.respond(ResponseCode.VALID, responseMsg);
+		
+		_Logger.info("Handling GET: " + responseMsg);
+		_Logger.info(ce.getRequestCode().toString() + ": " + ce.getRequestText().toString());
+	}
+}

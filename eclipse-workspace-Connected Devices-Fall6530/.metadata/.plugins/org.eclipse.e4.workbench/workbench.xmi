@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="ASCII"?>
 <application:Application xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:advanced="http://www.eclipse.org/ui/2010/UIModel/application/ui/advanced" xmlns:application="http://www.eclipse.org/ui/2010/UIModel/application" xmlns:basic="http://www.eclipse.org/ui/2010/UIModel/application/ui/basic" xmlns:menu="http://www.eclipse.org/ui/2010/UIModel/application/ui/menu" xmlns:ui="http://www.eclipse.org/ui/2010/UIModel/application/ui" xmi:id="_PYZNYNSJEeiHKcXJQg-Btw" elementId="org.eclipse.e4.legacy.ide.application" contributorURI="platform:/plugin/org.eclipse.platform" selectedElement="_PYZNYdSJEeiHKcXJQg-Btw" bindingContexts="_PYZ3QNSJEeiHKcXJQg-Btw">
-  <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xA;&lt;workbench>&#xA;&lt;mruList>&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.python.pydev.editor.PythonEditor&quot; name=&quot;ConfigUtil.py&quot; tooltip=&quot;iot-device/apps/labs/common/ConfigUtil.py&quot;>&#xA;&lt;persistable path=&quot;/iot-device/apps/labs/common/ConfigUtil.py&quot;/>&#xA;&lt;/file>&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.ui.DefaultTextEditor&quot; name=&quot;ConnectedDevicesConfig.props&quot; tooltip=&quot;iot-device/data/ConnectedDevicesConfig.props&quot;>&#xA;&lt;persistable path=&quot;/iot-device/data/ConnectedDevicesConfig.props&quot;/>&#xA;&lt;/file>&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.python.pydev.editor.PythonEditor&quot; name=&quot;ConfigConst.py&quot; tooltip=&quot;iot-device/apps/labs/common/ConfigConst.py&quot;>&#xA;&lt;persistable path=&quot;/iot-device/apps/labs/common/ConfigConst.py&quot;/>&#xA;&lt;/file>&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.python.pydev.editor.PythonEditor&quot; name=&quot;I2CSenseHatAdaptor.py&quot; tooltip=&quot;iot-device/apps/labs/module04/I2CSenseHatAdaptor.py&quot;>&#xA;&lt;persistable path=&quot;/iot-device/apps/labs/module04/I2CSenseHatAdaptor.py&quot;/>&#xA;&lt;/file>&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.python.pydev.editor.PythonEditor&quot; name=&quot;SensorReaderApp.py&quot; tooltip=&quot;iot-device/apps/labs/module04/SensorReaderApp.py&quot;>&#xA;&lt;persistable path=&quot;/iot-device/apps/labs/module04/SensorReaderApp.py&quot;/>&#xA;&lt;/file>&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.python.pydev.editor.PythonEditor&quot; name=&quot;__init__.py&quot; tooltip=&quot;iot-device/apps/labs/module04/__init__.py&quot;>&#xA;&lt;persistable path=&quot;/iot-device/apps/labs/module04/__init__.py&quot;/>&#xA;&lt;/file>&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.python.pydev.editor.PythonEditor&quot; name=&quot;ActuatorData.py&quot; tooltip=&quot;iot-device/apps/labs/common/ActuatorData.py&quot;>&#xA;&lt;persistable path=&quot;/iot-device/apps/labs/common/ActuatorData.py&quot;/>&#xA;&lt;/file>&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.python.pydev.editor.PythonEditor&quot; name=&quot;SimpleLedActivator.py&quot; tooltip=&quot;iot-device/apps/labs/module03/SimpleLedActivator.py&quot;>&#xA;&lt;persistable path=&quot;/iot-device/apps/labs/module03/SimpleLedActivator.py&quot;/>&#xA;&lt;/file>&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.python.pydev.editor.PythonEditor&quot; name=&quot;SenseHatLedActivator.py&quot; tooltip=&quot;iot-device/apps/labs/module03/SenseHatLedActivator.py&quot;>&#xA;&lt;persistable path=&quot;/iot-device/apps/labs/module03/SenseHatLedActivator.py&quot;/>&#xA;&lt;/file>&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.python.pydev.editor.PythonEditor&quot; name=&quot;TempSensorAdaptor.py&quot; tooltip=&quot;iot-device/apps/labs/module03/TempSensorAdaptor.py&quot;>&#xA;&lt;persistable path=&quot;/iot-device/apps/labs/module03/TempSensorAdaptor.py&quot;/>&#xA;&lt;/file>&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.python.pydev.editor.PythonEditor&quot; name=&quot;TempManagmentApp.py&quot; tooltip=&quot;iot-device/apps/labs/module03/TempManagmentApp.py&quot;>&#xA;&lt;persistable path=&quot;/iot-device/apps/labs/module03/TempManagmentApp.py&quot;/>&#xA;&lt;/file>&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.python.pydev.editor.PythonEditor&quot; name=&quot;sense_hat.py&quot; tooltip=&quot;iot-device/apps/sense_hat.py&quot;>&#xA;&lt;persistable path=&quot;/iot-device/apps/sense_hat.py&quot;/>&#xA;&lt;/file>&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.python.pydev.editor.PythonEditor&quot; name=&quot;GPIO.py&quot; tooltip=&quot;iot-device/apps/RPi/GPIO.py&quot;>&#xA;&lt;persistable path=&quot;/iot-device/apps/RPi/GPIO.py&quot;/>&#xA;&lt;/file>&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.python.pydev.editor.PythonEditor&quot; name=&quot;TempActuatorEmulator.py&quot; tooltip=&quot;iot-device/apps/labs/module03/TempActuatorEmulator.py&quot;>&#xA;&lt;persistable path=&quot;/iot-device/apps/labs/module03/TempActuatorEmulator.py&quot;/>&#xA;&lt;/file>&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.python.pydev.editor.PythonEditor&quot; name=&quot;SensorData.py&quot; tooltip=&quot;iot-device/apps/labs/common/SensorData.py&quot;>&#xA;&lt;persistable path=&quot;/iot-device/apps/labs/common/SensorData.py&quot;/>&#xA;&lt;/file>&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.python.pydev.editor.PythonEditor&quot; name=&quot;SmtpClientConnector.py&quot; tooltip=&quot;iot-device/apps/labs/module02/SmtpClientConnector.py&quot;>&#xA;&lt;persistable path=&quot;/iot-device/apps/labs/module02/SmtpClientConnector.py&quot;/>&#xA;&lt;/file>&#xA;&lt;file factoryID=&quot;org.eclipse.ui.ide.FileStoreEditorInputFactory&quot; id=&quot;org.python.pydev.editor.PythonEditor&quot; name=&quot;smtplib.py&quot; tooltip=&quot;/Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/smtplib.py&quot;>&#xA;&lt;persistable uri=&quot;file:/Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/smtplib.py&quot;/>&#xA;&lt;/file>&#xA;&lt;file factoryID=&quot;org.eclipse.ui.ide.FileStoreEditorInputFactory&quot; id=&quot;org.python.pydev.editor.PythonEditor&quot; name=&quot;threading.py&quot; tooltip=&quot;/Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/threading.py&quot;>&#xA;&lt;persistable uri=&quot;file:/Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/threading.py&quot;/>&#xA;&lt;/file>&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.python.pydev.editor.PythonEditor&quot; name=&quot;TempSimulatorApp.py&quot; tooltip=&quot;iot-device/apps/labs/module02/TempSimulatorApp.py&quot;>&#xA;&lt;persistable path=&quot;/iot-device/apps/labs/module02/TempSimulatorApp.py&quot;/>&#xA;&lt;/file>&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.python.pydev.editor.PythonEditor&quot; name=&quot;TempSensorEmulator.py&quot; tooltip=&quot;iot-device/apps/labs/module02/TempSensorEmulator.py&quot;>&#xA;&lt;persistable path=&quot;/iot-device/apps/labs/module02/TempSensorEmulator.py&quot;/>&#xA;&lt;/file>&#xA;&lt;/mruList>&#xA;&lt;/workbench>"/>
+  <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xA;&lt;workbench>&#xA;&lt;mruList>&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;CoapClientConnector.java&quot; tooltip=&quot;iot-gateway/src/main/java/iotConnectedDevicesGateway/labs/module7/CoapClientConnector.java&quot;>&#xA;&lt;persistable path=&quot;/iot-gateway/src/main/java/iotConnectedDevicesGateway/labs/module7/CoapClientConnector.java&quot;/>&#xA;&lt;/file>&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;CoapClientTestApp.java&quot; tooltip=&quot;iot-gateway/src/main/java/iotConnectedDevicesGateway/labs/module7/CoapClientTestApp.java&quot;>&#xA;&lt;persistable path=&quot;/iot-gateway/src/main/java/iotConnectedDevicesGateway/labs/module7/CoapClientTestApp.java&quot;/>&#xA;&lt;/file>&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;TempResourceHandler.java&quot; tooltip=&quot;iot-gateway/src/main/java/iotConnectedDevicesGateway/labs/module7/TempResourceHandler.java&quot;>&#xA;&lt;persistable path=&quot;/iot-gateway/src/main/java/iotConnectedDevicesGateway/labs/module7/TempResourceHandler.java&quot;/>&#xA;&lt;/file>&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;CoapServerTestApp.java&quot; tooltip=&quot;iot-gateway/src/main/java/iotConnectedDevicesGateway/labs/module7/CoapServerTestApp.java&quot;>&#xA;&lt;persistable path=&quot;/iot-gateway/src/main/java/iotConnectedDevicesGateway/labs/module7/CoapServerTestApp.java&quot;/>&#xA;&lt;/file>&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;CoapServerConnector.java&quot; tooltip=&quot;iot-gateway/src/main/java/iotConnectedDevicesGateway/labs/module7/CoapServerConnector.java&quot;>&#xA;&lt;persistable path=&quot;/iot-gateway/src/main/java/iotConnectedDevicesGateway/labs/module7/CoapServerConnector.java&quot;/>&#xA;&lt;/file>&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;TempActuatorSubscriberApp.java&quot; tooltip=&quot;iot-gateway/src/main/java/iotConnectedDevicesGateway/labs/module8/TempActuatorSubscriberApp.java&quot;>&#xA;&lt;persistable path=&quot;/iot-gateway/src/main/java/iotConnectedDevicesGateway/labs/module8/TempActuatorSubscriberApp.java&quot;/>&#xA;&lt;/file>&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;TempSensorPublisherApp.java&quot; tooltip=&quot;iot-gateway/src/main/java/iotConnectedDevicesGateway/labs/module8/TempSensorPublisherApp.java&quot;>&#xA;&lt;persistable path=&quot;/iot-gateway/src/main/java/iotConnectedDevicesGateway/labs/module8/TempSensorPublisherApp.java&quot;/>&#xA;&lt;/file>&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;MqttClientConnector.java&quot; tooltip=&quot;iot-gateway/src/main/java/iotConnectedDevicesGateway/labs/module8/MqttClientConnector.java&quot;>&#xA;&lt;persistable path=&quot;/iot-gateway/src/main/java/iotConnectedDevicesGateway/labs/module8/MqttClientConnector.java&quot;/>&#xA;&lt;/file>&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.m2e.editor.MavenPomEditor&quot; name=&quot;pom.xml&quot; tooltip=&quot;iot-gateway/pom.xml&quot;>&#xA;&lt;persistable path=&quot;/iot-gateway/pom.xml&quot;/>&#xA;&lt;/file>&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;MqttPubClientTestApp.java&quot; tooltip=&quot;iot-gateway/src/main/java/iotConnectedDevicesGateway/labs/module6/MqttPubClientTestApp.java&quot;>&#xA;&lt;persistable path=&quot;/iot-gateway/src/main/java/iotConnectedDevicesGateway/labs/module6/MqttPubClientTestApp.java&quot;/>&#xA;&lt;/file>&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;MqttSubClientTestApp.java&quot; tooltip=&quot;iot-gateway/src/main/java/iotConnectedDevicesGateway/labs/module6/MqttSubClientTestApp.java&quot;>&#xA;&lt;persistable path=&quot;/iot-gateway/src/main/java/iotConnectedDevicesGateway/labs/module6/MqttSubClientTestApp.java&quot;/>&#xA;&lt;/file>&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;MqttClientConnector.java&quot; tooltip=&quot;iot-gateway/src/main/java/iotConnectedDevicesGateway/labs/module6/MqttClientConnector.java&quot;>&#xA;&lt;persistable path=&quot;/iot-gateway/src/main/java/iotConnectedDevicesGateway/labs/module6/MqttClientConnector.java&quot;/>&#xA;&lt;/file>&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;CoapClIENT.java&quot; tooltip=&quot;iot-gateway/src/main/java/iotConnectedDevicesGateway/labs/module7/CoapClIENT.java&quot;>&#xA;&lt;persistable path=&quot;/iot-gateway/src/main/java/iotConnectedDevicesGateway/labs/module7/CoapClIENT.java&quot;/>&#xA;&lt;/file>&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;TempActuatorPublisherAPP.java&quot; tooltip=&quot;iot-gateway/src/main/java/iotConnectedDevicesGateway/labs/module8/TempActuatorPublisherAPP.java&quot;>&#xA;&lt;persistable path=&quot;/iot-gateway/src/main/java/iotConnectedDevicesGateway/labs/module8/TempActuatorPublisherAPP.java&quot;/>&#xA;&lt;/file>&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;MqttPubClientTestApp.java&quot; tooltip=&quot;iot-gateway/src/main/java/iotConnectedDevicesGateway/labs/module8/MqttPubClientTestApp.java&quot;>&#xA;&lt;persistable path=&quot;/iot-gateway/src/main/java/iotConnectedDevicesGateway/labs/module8/MqttPubClientTestApp.java&quot;/>&#xA;&lt;/file>&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;TempSensorPublisherAPP.java&quot; tooltip=&quot;iot-gateway/src/main/java/iotConnectedDevicesGateway/labs/module8/TempSensorPublisherAPP.java&quot;>&#xA;&lt;persistable path=&quot;/iot-gateway/src/main/java/iotConnectedDevicesGateway/labs/module8/TempSensorPublisherAPP.java&quot;/>&#xA;&lt;/file>&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;MqttClientTestApp.java&quot; tooltip=&quot;iot-gateway/src/main/java/iotConnectedDevicesGateway/labs/module6/MqttClientTestApp.java&quot;>&#xA;&lt;persistable path=&quot;/iot-gateway/src/main/java/iotConnectedDevicesGateway/labs/module6/MqttClientTestApp.java&quot;/>&#xA;&lt;/file>&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;MqttClientConnector.java&quot; tooltip=&quot;iot-gateway/src/main/java/ConnectedDevicesGateway/labs/module06/MqttClientConnector.java&quot;>&#xA;&lt;persistable path=&quot;/iot-gateway/src/main/java/ConnectedDevicesGateway/labs/module06/MqttClientConnector.java&quot;/>&#xA;&lt;/file>&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;MqttPubClientTestApp.java&quot; tooltip=&quot;iot-gateway/src/main/java/ConnectedDevicesGateway/labs/module06/MqttPubClientTestApp.java&quot;>&#xA;&lt;persistable path=&quot;/iot-gateway/src/main/java/ConnectedDevicesGateway/labs/module06/MqttPubClientTestApp.java&quot;/>&#xA;&lt;/file>&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;MqttSubClientTestApp.java&quot; tooltip=&quot;iot-gateway/src/main/java/ConnectedDevicesGateway/labs/module06/MqttSubClientTestApp.java&quot;>&#xA;&lt;persistable path=&quot;/iot-gateway/src/main/java/ConnectedDevicesGateway/labs/module06/MqttSubClientTestApp.java&quot;/>&#xA;&lt;/file>&#xA;&lt;/mruList>&#xA;&lt;/workbench>"/>
   <tags>activeSchemeId:org.eclipse.ui.defaultAcceleratorConfiguration</tags>
   <tags>ModelMigrationProcessor.001</tags>
-  <children xsi:type="basic:TrimmedWindow" xmi:id="_PYZNYdSJEeiHKcXJQg-Btw" elementId="IDEWindow" contributorURI="platform:/plugin/org.eclipse.platform" selectedElement="_PYZNYtSJEeiHKcXJQg-Btw" label="%trimmedwindow.label.eclipseSDK" x="59" y="64" width="1680" height="958">
+  <children xsi:type="basic:TrimmedWindow" xmi:id="_PYZNYdSJEeiHKcXJQg-Btw" elementId="IDEWindow" contributorURI="platform:/plugin/org.eclipse.platform" selectedElement="_PYZNYtSJEeiHKcXJQg-Btw" label="%trimmedwindow.label.eclipseSDK" x="294" y="98" width="1680" height="958">
     <persistedState key="coolBarVisible" value="true"/>
     <persistedState key="perspectiveBarVisible" value="true"/>
     <persistedState key="isRestored" value="true"/>
@@ -11,9 +11,8 @@
     <persistedState key="workingSets" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xA;&lt;workingSets/>"/>
     <persistedState key="aggregateWorkingSetId" value="Aggregate for window 1536422044239"/>
     <tags>topLevel</tags>
-    <tags>shellMaximized</tags>
     <children xsi:type="basic:PartSashContainer" xmi:id="_PYZNYtSJEeiHKcXJQg-Btw" selectedElement="_PYZNY9SJEeiHKcXJQg-Btw" horizontal="true">
-      <children xsi:type="advanced:PerspectiveStack" xmi:id="_PYZNY9SJEeiHKcXJQg-Btw" elementId="org.eclipse.ui.ide.perspectivestack" containerData="7500" selectedElement="_PYZNgdSJEeiHKcXJQg-Btw">
+      <children xsi:type="advanced:PerspectiveStack" xmi:id="_PYZNY9SJEeiHKcXJQg-Btw" elementId="org.eclipse.ui.ide.perspectivestack" containerData="7500" selectedElement="_PYZNZNSJEeiHKcXJQg-Btw">
         <children xsi:type="advanced:Perspective" xmi:id="_PYZNZNSJEeiHKcXJQg-Btw" elementId="org.eclipse.jdt.ui.JavaPerspective" selectedElement="_PYZNZdSJEeiHKcXJQg-Btw" label="Java" iconURI="platform:/plugin/org.eclipse.jdt.ui/$nl$/icons/full/eview16/jperspective.png">
           <persistedState key="persp.hiddenItems" value="persp.hideToolbarSC:print,persp.hideToolbarSC:org.eclipse.ui.edit.undo,persp.hideToolbarSC:org.eclipse.ui.edit.redo,persp.hideToolbarSC:org.eclipse.ui.edit.text.toggleShowSelectedElementOnly,persp.hideToolbarSC:org.eclipse.debug.ui.commands.RunToLine,persp.hideToolbarSC:org.eclipse.jdt.ui.actions.OpenProjectWizard,"/>
           <tags>persp.actionSet:org.eclipse.mylyn.doc.actionSet</tags>
@@ -72,7 +71,7 @@
           <tags>persp.newWizSC:org.eclipse.jdt.junit.wizards.NewTestCaseCreationWizard</tags>
           <tags>persp.actionSet:org.eclipse.jdt.junit.JUnitActionSet</tags>
           <tags>persp.viewSC:org.eclipse.ant.ui.views.AntView</tags>
-          <children xsi:type="basic:PartSashContainer" xmi:id="_PYZNZdSJEeiHKcXJQg-Btw" selectedElement="_PYZNZtSJEeiHKcXJQg-Btw" horizontal="true">
+          <children xsi:type="basic:PartSashContainer" xmi:id="_PYZNZdSJEeiHKcXJQg-Btw" selectedElement="_PYZNb9SJEeiHKcXJQg-Btw" horizontal="true">
             <children xsi:type="basic:PartSashContainer" xmi:id="_PYZNZtSJEeiHKcXJQg-Btw" containerData="2500" selectedElement="_PYZNZ9SJEeiHKcXJQg-Btw">
               <children xsi:type="basic:PartStack" xmi:id="_PYZNZ9SJEeiHKcXJQg-Btw" elementId="left" containerData="6000" selectedElement="_PYZNaNSJEeiHKcXJQg-Btw">
                 <tags>org.eclipse.e4.primaryNavigationStack</tags>
@@ -104,8 +103,8 @@
                 </children>
               </children>
             </children>
-            <children xsi:type="basic:PartSashContainer" xmi:id="_PYZNb9SJEeiHKcXJQg-Btw" containerData="7500" selectedElement="_PYZNcNSJEeiHKcXJQg-Btw">
-              <children xsi:type="basic:PartSashContainer" xmi:id="_PYZNcNSJEeiHKcXJQg-Btw" containerData="7500" selectedElement="_PYZNcdSJEeiHKcXJQg-Btw" horizontal="true">
+            <children xsi:type="basic:PartSashContainer" xmi:id="_PYZNb9SJEeiHKcXJQg-Btw" containerData="7500" selectedElement="_PYZNedSJEeiHKcXJQg-Btw">
+              <children xsi:type="basic:PartSashContainer" xmi:id="_PYZNcNSJEeiHKcXJQg-Btw" containerData="6230" selectedElement="_PYZNcdSJEeiHKcXJQg-Btw" horizontal="true">
                 <children xsi:type="advanced:Placeholder" xmi:id="_PYZNcdSJEeiHKcXJQg-Btw" elementId="org.eclipse.ui.editorss" containerData="7500" ref="_PYZ0htSJEeiHKcXJQg-Btw"/>
                 <children xsi:type="basic:PartSashContainer" xmi:id="_PYZNctSJEeiHKcXJQg-Btw" containerData="2500" selectedElement="_PYZNddSJEeiHKcXJQg-Btw">
                   <children xsi:type="basic:PartStack" xmi:id="_PYZNc9SJEeiHKcXJQg-Btw" elementId="org.eclipse.mylyn.tasks.ui.views.tasksMStack" containerData="5000" selectedElement="_PYZNdNSJEeiHKcXJQg-Btw">
@@ -132,8 +131,9 @@
                   </children>
                 </children>
               </children>
-              <children xsi:type="basic:PartStack" xmi:id="_PYZNedSJEeiHKcXJQg-Btw" elementId="bottom" containerData="2500" selectedElement="_PYZNe9SJEeiHKcXJQg-Btw">
+              <children xsi:type="basic:PartStack" xmi:id="_PYZNedSJEeiHKcXJQg-Btw" elementId="bottom" containerData="3770" selectedElement="_PYZNftSJEeiHKcXJQg-Btw">
                 <tags>org.eclipse.e4.secondaryDataStack</tags>
+                <tags>active</tags>
                 <children xsi:type="advanced:Placeholder" xmi:id="_PYZNetSJEeiHKcXJQg-Btw" elementId="org.eclipse.ui.views.ProblemView" toBeRendered="false" ref="_PYZ0qdSJEeiHKcXJQg-Btw" closeable="true">
                   <tags>View</tags>
                   <tags>categoryTag:General</tags>
@@ -150,7 +150,7 @@
                   <tags>View</tags>
                   <tags>categoryTag:General</tags>
                 </children>
-                <children xsi:type="advanced:Placeholder" xmi:id="_PYZNftSJEeiHKcXJQg-Btw" elementId="org.eclipse.ui.console.ConsoleView" toBeRendered="false" ref="_PYZ0stSJEeiHKcXJQg-Btw" closeable="true">
+                <children xsi:type="advanced:Placeholder" xmi:id="_PYZNftSJEeiHKcXJQg-Btw" elementId="org.eclipse.ui.console.ConsoleView" ref="_PYZ0stSJEeiHKcXJQg-Btw" closeable="true">
                   <tags>View</tags>
                   <tags>categoryTag:General</tags>
                 </children>
@@ -201,8 +201,9 @@
           <tags>persp.showIn:org.eclipse.ui.views.ResourceNavigator</tags>
           <tags>persp.showIn:org.python.pydev.navigator.view</tags>
           <tags>persp.showIn:org.eclipse.ui.views.ContentOutline</tags>
-          <children xsi:type="basic:PartSashContainer" xmi:id="_PYZNgtSJEeiHKcXJQg-Btw" selectedElement="_PYZNhdSJEeiHKcXJQg-Btw" horizontal="true">
+          <children xsi:type="basic:PartSashContainer" xmi:id="_PYZNgtSJEeiHKcXJQg-Btw" selectedElement="_PYZNg9SJEeiHKcXJQg-Btw" horizontal="true">
             <children xsi:type="basic:PartStack" xmi:id="_PYZNg9SJEeiHKcXJQg-Btw" elementId="topLeft" containerData="1616" selectedElement="_PYZNhNSJEeiHKcXJQg-Btw">
+              <tags>noFocus</tags>
               <children xsi:type="advanced:Placeholder" xmi:id="_PYZNhNSJEeiHKcXJQg-Btw" elementId="org.python.pydev.navigator.view" ref="_PYZ00dSJEeiHKcXJQg-Btw" closeable="true">
                 <tags>View</tags>
                 <tags>categoryTag:PyDev</tags>
@@ -279,168 +280,37 @@
       <tags>categoryTag:Help</tags>
     </sharedElements>
     <sharedElements xsi:type="advanced:Area" xmi:id="_PYZ0htSJEeiHKcXJQg-Btw" elementId="org.eclipse.ui.editorss" selectedElement="_PYZ0h9SJEeiHKcXJQg-Btw">
-      <children xsi:type="basic:PartStack" xmi:id="_PYZ0h9SJEeiHKcXJQg-Btw" elementId="org.eclipse.e4.primaryDataStack" selectedElement="_PYZ0l9SJEeiHKcXJQg-Btw">
+      <children xsi:type="basic:PartStack" xmi:id="_PYZ0h9SJEeiHKcXJQg-Btw" elementId="org.eclipse.e4.primaryDataStack" selectedElement="_LrPzEO3sEeiyn-tSMVfAWA">
         <tags>org.eclipse.e4.primaryDataStack</tags>
         <tags>EditorStack</tags>
-        <tags>active</tags>
-        <children xsi:type="basic:Part" xmi:id="_PYZ0iNSJEeiHKcXJQg-Btw" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="module02" iconURI="platform:/plugin/org.python.pydev.shared_ui/icons/python_file.gif" closeable="true">
-          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xA;&lt;editor id=&quot;org.python.pydev.editor.PythonEditor&quot; name=&quot;__init__.py&quot; partName=&quot;module02&quot; title=&quot;module02&quot; tooltip=&quot;iot-device/apps/labs/module02/__init__.py&quot;>&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/iot-device/apps/labs/module02/__init__.py&quot;/>&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;0&quot; selectionOffset=&quot;0&quot; selectionTopPixel=&quot;0&quot;/>&#xA;&lt;/editor>"/>
+        <children xsi:type="basic:Part" xmi:id="_Evb3gO3sEeiyn-tSMVfAWA" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="CoapClientTestApp.java" iconURI="platform:/plugin/org.eclipse.jdt.ui/icons/full/obj16/jcu_obj.png" closeable="true">
+          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xA;&lt;editor id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;CoapClientTestApp.java&quot; partName=&quot;CoapClientTestApp.java&quot; title=&quot;CoapClientTestApp.java&quot; tooltip=&quot;iot-gateway/src/main/java/iotConnectedDevicesGateway/labs/module7/CoapClientTestApp.java&quot;>&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/iot-gateway/src/main/java/iotConnectedDevicesGateway/labs/module7/CoapClientTestApp.java&quot;/>&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;0&quot; selectionOffset=&quot;0&quot; selectionTopPixel=&quot;88&quot;/>&#xA;&lt;/editor>"/>
           <tags>Editor</tags>
-          <tags>org.python.pydev.editor.PythonEditor</tags>
-          <tags>removeOnHide</tags>
-          <menus xsi:type="menu:PopupMenu" xmi:id="_PYZ0idSJEeiHKcXJQg-Btw" elementId="#PyEditContext">
-            <tags>menuContribution:popup</tags>
-            <tags>popup:#PyEditContext</tags>
-            <tags>popup:org.python.pydev.editor.PythonEditor.EditorContext</tags>
-            <tags>popup:#AbstractTextEditorContext</tags>
-          </menus>
-          <menus xsi:type="menu:PopupMenu" xmi:id="_PYZ0itSJEeiHKcXJQg-Btw" elementId="#PyEditRulerContext">
-            <tags>menuContribution:popup</tags>
-            <tags>popup:#PyEditRulerContext</tags>
-            <tags>popup:org.python.pydev.editor.PythonEditor.RulerContext</tags>
-            <tags>popup:#AbstractTextEditorRulerContext</tags>
-          </menus>
-          <menus xsi:type="menu:PopupMenu" xmi:id="_PYZ0i9SJEeiHKcXJQg-Btw" elementId="#OverviewRulerContext">
-            <tags>menuContribution:popup</tags>
-            <tags>popup:#OverviewRulerContext</tags>
-          </menus>
-        </children>
-        <children xsi:type="basic:Part" xmi:id="_PYZ0jNSJEeiHKcXJQg-Btw" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="TempSensorAdaptor" iconURI="platform:/plugin/org.python.pydev.shared_ui/icons/python_file.gif" closeable="true">
-          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xA;&lt;editor id=&quot;org.python.pydev.editor.PythonEditor&quot; name=&quot;TempSensorAdaptor.py&quot; partName=&quot;TempSensorAdaptor&quot; title=&quot;TempSensorAdaptor&quot; tooltip=&quot;iot-device/apps/labs/module03/TempSensorAdaptor.py&quot;>&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/iot-device/apps/labs/module03/TempSensorAdaptor.py&quot;/>&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;0&quot; selectionOffset=&quot;1608&quot; selectionTopPixel=&quot;252&quot;/>&#xA;&lt;/editor>"/>
-          <tags>Editor</tags>
-          <tags>org.python.pydev.editor.PythonEditor</tags>
+          <tags>org.eclipse.jdt.ui.CompilationUnitEditor</tags>
           <tags>removeOnHide</tags>
         </children>
-        <children xsi:type="basic:Part" xmi:id="_PYZ0jdSJEeiHKcXJQg-Btw" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="TempActuatorEmulator" iconURI="platform:/plugin/org.python.pydev.shared_ui/icons/python_file.gif" closeable="true">
-          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xA;&lt;editor id=&quot;org.python.pydev.editor.PythonEditor&quot; name=&quot;TempActuatorEmulator.py&quot; partName=&quot;TempActuatorEmulator&quot; title=&quot;TempActuatorEmulator&quot; tooltip=&quot;iot-device/apps/labs/module03/TempActuatorEmulator.py&quot;>&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/iot-device/apps/labs/module03/TempActuatorEmulator.py&quot;/>&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;0&quot; selectionOffset=&quot;2110&quot; selectionTopPixel=&quot;0&quot;/>&#xA;&lt;/editor>"/>
+        <children xsi:type="basic:Part" xmi:id="_LrPzEO3sEeiyn-tSMVfAWA" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="CoapClientConnector.java" iconURI="platform:/plugin/org.eclipse.jdt.ui/icons/full/obj16/jcu_obj.png" closeable="true">
+          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xA;&lt;editor id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;CoapClientConnector.java&quot; partName=&quot;CoapClientConnector.java&quot; title=&quot;CoapClientConnector.java&quot; tooltip=&quot;iot-gateway/src/main/java/iotConnectedDevicesGateway/labs/module7/CoapClientConnector.java&quot;>&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/iot-gateway/src/main/java/iotConnectedDevicesGateway/labs/module7/CoapClientConnector.java&quot;/>&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;0&quot; selectionOffset=&quot;0&quot; selectionTopPixel=&quot;0&quot;/>&#xA;&lt;/editor>"/>
           <tags>Editor</tags>
-          <tags>org.python.pydev.editor.PythonEditor</tags>
+          <tags>org.eclipse.jdt.ui.CompilationUnitEditor</tags>
           <tags>removeOnHide</tags>
         </children>
-        <children xsi:type="basic:Part" xmi:id="_PYZ0jtSJEeiHKcXJQg-Btw" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="sense_hat" iconURI="platform:/plugin/org.python.pydev.shared_ui/icons/python_file.gif" closeable="true">
-          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xA;&lt;editor id=&quot;org.python.pydev.editor.PythonEditor&quot; name=&quot;sense_hat.py&quot; partName=&quot;sense_hat&quot; title=&quot;sense_hat&quot; tooltip=&quot;iot-device/apps/sense_hat.py&quot;>&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/iot-device/apps/sense_hat.py&quot;/>&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;8&quot; selectionOffset=&quot;59&quot; selectionTopPixel=&quot;0&quot;/>&#xA;&lt;/editor>"/>
+        <children xsi:type="basic:Part" xmi:id="_MSgnYO3sEeiyn-tSMVfAWA" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="CoapServerTestApp.java" iconURI="platform:/plugin/org.eclipse.jdt.ui/icons/full/obj16/jcu_obj.png" closeable="true">
+          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xA;&lt;editor id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;CoapServerTestApp.java&quot; partName=&quot;CoapServerTestApp.java&quot; title=&quot;CoapServerTestApp.java&quot; tooltip=&quot;iot-gateway/src/main/java/iotConnectedDevicesGateway/labs/module7/CoapServerTestApp.java&quot;>&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/iot-gateway/src/main/java/iotConnectedDevicesGateway/labs/module7/CoapServerTestApp.java&quot;/>&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;0&quot; selectionOffset=&quot;0&quot; selectionTopPixel=&quot;0&quot;/>&#xA;&lt;/editor>"/>
           <tags>Editor</tags>
-          <tags>org.python.pydev.editor.PythonEditor</tags>
+          <tags>org.eclipse.jdt.ui.CompilationUnitEditor</tags>
           <tags>removeOnHide</tags>
         </children>
-        <children xsi:type="basic:Part" xmi:id="_PYZ0j9SJEeiHKcXJQg-Btw" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="TempManagmentApp" iconURI="platform:/plugin/org.python.pydev.shared_ui/icons/python_file.gif" closeable="true">
-          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xA;&lt;editor id=&quot;org.python.pydev.editor.PythonEditor&quot; name=&quot;TempManagmentApp.py&quot; partName=&quot;TempManagmentApp&quot; title=&quot;TempManagmentApp&quot; tooltip=&quot;iot-device/apps/labs/module03/TempManagmentApp.py&quot;>&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/iot-device/apps/labs/module03/TempManagmentApp.py&quot;/>&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;339&quot; selectionOffset=&quot;52&quot; selectionTopPixel=&quot;0&quot;/>&#xA;&lt;/editor>"/>
+        <children xsi:type="basic:Part" xmi:id="_M9BkAO3sEeiyn-tSMVfAWA" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="CoapServerConnector.java" iconURI="platform:/plugin/org.eclipse.jdt.ui/icons/full/obj16/jcu_obj.png" closeable="true">
+          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xA;&lt;editor id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;CoapServerConnector.java&quot; partName=&quot;CoapServerConnector.java&quot; title=&quot;CoapServerConnector.java&quot; tooltip=&quot;iot-gateway/src/main/java/iotConnectedDevicesGateway/labs/module7/CoapServerConnector.java&quot;>&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/iot-gateway/src/main/java/iotConnectedDevicesGateway/labs/module7/CoapServerConnector.java&quot;/>&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;0&quot; selectionOffset=&quot;0&quot; selectionTopPixel=&quot;0&quot;/>&#xA;&lt;/editor>"/>
           <tags>Editor</tags>
-          <tags>org.python.pydev.editor.PythonEditor</tags>
+          <tags>org.eclipse.jdt.ui.CompilationUnitEditor</tags>
           <tags>removeOnHide</tags>
         </children>
-        <children xsi:type="basic:Part" xmi:id="_PYZ0kNSJEeiHKcXJQg-Btw" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="ActuatorData" iconURI="platform:/plugin/org.python.pydev.shared_ui/icons/python_file.gif" closeable="true">
-          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xA;&lt;editor id=&quot;org.python.pydev.editor.PythonEditor&quot; name=&quot;ActuatorData.py&quot; partName=&quot;ActuatorData&quot; title=&quot;ActuatorData&quot; tooltip=&quot;iot-device/apps/labs/common/ActuatorData.py&quot;>&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/iot-device/apps/labs/common/ActuatorData.py&quot;/>&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;0&quot; selectionOffset=&quot;580&quot; selectionTopPixel=&quot;182&quot;/>&#xA;&lt;/editor>"/>
+        <children xsi:type="basic:Part" xmi:id="__f2-0O3sEeiyn-tSMVfAWA" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="TempResourceHandler.java" iconURI="platform:/plugin/org.eclipse.jdt.ui/icons/full/obj16/jcu_obj.png" closeable="true">
+          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xA;&lt;editor id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;TempResourceHandler.java&quot; partName=&quot;TempResourceHandler.java&quot; title=&quot;TempResourceHandler.java&quot; tooltip=&quot;iot-gateway/src/main/java/iotConnectedDevicesGateway/labs/module7/TempResourceHandler.java&quot;>&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/iot-gateway/src/main/java/iotConnectedDevicesGateway/labs/module7/TempResourceHandler.java&quot;/>&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;0&quot; selectionOffset=&quot;2091&quot; selectionTopPixel=&quot;0&quot;/>&#xA;&lt;/editor>"/>
           <tags>Editor</tags>
-          <tags>org.python.pydev.editor.PythonEditor</tags>
-          <tags>removeOnHide</tags>
-        </children>
-        <children xsi:type="basic:Part" xmi:id="_PYZ0kdSJEeiHKcXJQg-Btw" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="TempSensorEmulator" iconURI="platform:/plugin/org.python.pydev.shared_ui/icons/python_file.gif" closeable="true">
-          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xA;&lt;editor id=&quot;org.python.pydev.editor.PythonEditor&quot; name=&quot;TempSensorEmulator.py&quot; partName=&quot;TempSensorEmulator&quot; title=&quot;TempSensorEmulator&quot; tooltip=&quot;iot-device/apps/labs/module02/TempSensorEmulator.py&quot;>&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/iot-device/apps/labs/module02/TempSensorEmulator.py&quot;/>&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;0&quot; selectionOffset=&quot;0&quot; selectionTopPixel=&quot;56&quot;/>&#xA;&lt;/editor>"/>
-          <tags>Editor</tags>
-          <tags>org.python.pydev.editor.PythonEditor</tags>
-          <tags>removeOnHide</tags>
-        </children>
-        <children xsi:type="basic:Part" xmi:id="_PYZ0ktSJEeiHKcXJQg-Btw" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="SimpleLedActivator" iconURI="platform:/plugin/org.python.pydev.shared_ui/icons/python_file.gif" closeable="true">
-          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xA;&lt;editor id=&quot;org.python.pydev.editor.PythonEditor&quot; name=&quot;SimpleLedActivator.py&quot; partName=&quot;SimpleLedActivator&quot; title=&quot;SimpleLedActivator&quot; tooltip=&quot;iot-device/apps/labs/module03/SimpleLedActivator.py&quot;>&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/iot-device/apps/labs/module03/SimpleLedActivator.py&quot;/>&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;0&quot; selectionOffset=&quot;0&quot; selectionTopPixel=&quot;0&quot;/>&#xA;&lt;/editor>"/>
-          <tags>Editor</tags>
-          <tags>org.python.pydev.editor.PythonEditor</tags>
-          <tags>removeOnHide</tags>
-        </children>
-        <children xsi:type="basic:Part" xmi:id="_PYZ0k9SJEeiHKcXJQg-Btw" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="TempSimulatorApp" iconURI="platform:/plugin/org.python.pydev.shared_ui/icons/python_file.gif" closeable="true">
-          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xA;&lt;editor id=&quot;org.python.pydev.editor.PythonEditor&quot; name=&quot;TempSimulatorApp.py&quot; partName=&quot;TempSimulatorApp&quot; title=&quot;TempSimulatorApp&quot; tooltip=&quot;iot-device/apps/labs/module02/TempSimulatorApp.py&quot;>&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/iot-device/apps/labs/module02/TempSimulatorApp.py&quot;/>&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;0&quot; selectionOffset=&quot;0&quot; selectionTopPixel=&quot;0&quot;/>&#xA;&lt;/editor>"/>
-          <tags>Editor</tags>
-          <tags>org.python.pydev.editor.PythonEditor</tags>
-          <tags>removeOnHide</tags>
-        </children>
-        <children xsi:type="basic:Part" xmi:id="_PYZ0lNSJEeiHKcXJQg-Btw" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="SensorData" iconURI="platform:/plugin/org.python.pydev.shared_ui/icons/python_file.gif" closeable="true">
-          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xA;&lt;editor id=&quot;org.python.pydev.editor.PythonEditor&quot; name=&quot;SensorData.py&quot; partName=&quot;SensorData&quot; title=&quot;SensorData&quot; tooltip=&quot;iot-device/apps/labs/common/SensorData.py&quot;>&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/iot-device/apps/labs/common/SensorData.py&quot;/>&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;0&quot; selectionOffset=&quot;399&quot; selectionTopPixel=&quot;172&quot;/>&#xA;&lt;/editor>"/>
-          <tags>Editor</tags>
-          <tags>org.python.pydev.editor.PythonEditor</tags>
-          <tags>removeOnHide</tags>
-        </children>
-        <children xsi:type="basic:Part" xmi:id="_PYZ0ldSJEeiHKcXJQg-Btw" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="SenseHatLedActivator" iconURI="platform:/plugin/org.python.pydev.shared_ui/icons/python_file.gif" closeable="true">
-          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xA;&lt;editor id=&quot;org.python.pydev.editor.PythonEditor&quot; name=&quot;SenseHatLedActivator.py&quot; partName=&quot;SenseHatLedActivator&quot; title=&quot;SenseHatLedActivator&quot; tooltip=&quot;iot-device/apps/labs/module03/SenseHatLedActivator.py&quot;>&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/iot-device/apps/labs/module03/SenseHatLedActivator.py&quot;/>&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;0&quot; selectionOffset=&quot;0&quot; selectionTopPixel=&quot;0&quot;/>&#xA;&lt;/editor>"/>
-          <tags>Editor</tags>
-          <tags>org.python.pydev.editor.PythonEditor</tags>
-          <tags>removeOnHide</tags>
-        </children>
-        <children xsi:type="basic:Part" xmi:id="_PYZ0ltSJEeiHKcXJQg-Btw" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="ConfigConst" iconURI="platform:/plugin/org.python.pydev.shared_ui/icons/python_file.gif" closeable="true">
-          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xA;&lt;editor id=&quot;org.python.pydev.editor.PythonEditor&quot; name=&quot;ConfigConst.py&quot; partName=&quot;ConfigConst&quot; title=&quot;ConfigConst&quot; tooltip=&quot;iot-device/apps/labs/common/ConfigConst.py&quot;>&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/iot-device/apps/labs/common/ConfigConst.py&quot;/>&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;0&quot; selectionOffset=&quot;1059&quot; selectionTopPixel=&quot;3&quot;/>&#xA;&lt;/editor>"/>
-          <tags>Editor</tags>
-          <tags>org.python.pydev.editor.PythonEditor</tags>
-          <tags>removeOnHide</tags>
-        </children>
-        <children xsi:type="basic:Part" xmi:id="_PYZ0l9SJEeiHKcXJQg-Btw" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="ConfigUtil" iconURI="platform:/plugin/org.python.pydev.shared_ui/icons/python_file.gif" closeable="true">
-          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xA;&lt;editor id=&quot;org.python.pydev.editor.PythonEditor&quot; name=&quot;ConfigUtil.py&quot; partName=&quot;ConfigUtil&quot; title=&quot;ConfigUtil&quot; tooltip=&quot;iot-device/apps/labs/common/ConfigUtil.py&quot;>&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/iot-device/apps/labs/common/ConfigUtil.py&quot;/>&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;0&quot; selectionOffset=&quot;540&quot; selectionTopPixel=&quot;0&quot;/>&#xA;&lt;/editor>"/>
-          <tags>Editor</tags>
-          <tags>org.python.pydev.editor.PythonEditor</tags>
-          <tags>removeOnHide</tags>
-          <tags>active</tags>
-          <tags>activeOnClose</tags>
-        </children>
-        <children xsi:type="basic:Part" xmi:id="_PYZ0mNSJEeiHKcXJQg-Btw" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="SmtpClientConnector" iconURI="platform:/plugin/org.python.pydev.shared_ui/icons/python_file.gif" closeable="true">
-          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xA;&lt;editor id=&quot;org.python.pydev.editor.PythonEditor&quot; name=&quot;SmtpClientConnector.py&quot; partName=&quot;SmtpClientConnector&quot; title=&quot;SmtpClientConnector&quot; tooltip=&quot;iot-device/apps/labs/module02/SmtpClientConnector.py&quot;>&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/iot-device/apps/labs/module02/SmtpClientConnector.py&quot;/>&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;181&quot; selectionOffset=&quot;404&quot; selectionTopPixel=&quot;0&quot;/>&#xA;&lt;/editor>"/>
-          <tags>Editor</tags>
-          <tags>org.python.pydev.editor.PythonEditor</tags>
-          <tags>removeOnHide</tags>
-        </children>
-        <children xsi:type="basic:Part" xmi:id="_PYZ0mdSJEeiHKcXJQg-Btw" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="ConnectedDevicesConfig.props" iconURI="platform:/plugin/org.eclipse.ui.editors/icons/full/obj16/file_obj.png" closeable="true">
-          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xA;&lt;editor id=&quot;org.eclipse.ui.DefaultTextEditor&quot; name=&quot;ConnectedDevicesConfig.props&quot; partName=&quot;ConnectedDevicesConfig.props&quot; title=&quot;ConnectedDevicesConfig.props&quot; tooltip=&quot;iot-device/data/ConnectedDevicesConfig.props&quot;>&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/iot-device/data/ConnectedDevicesConfig.props&quot;/>&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;8&quot; selectionOffset=&quot;57&quot; selectionTopPixel=&quot;0&quot;/>&#xA;&lt;/editor>"/>
-          <tags>Editor</tags>
-          <tags>org.eclipse.ui.DefaultTextEditor</tags>
-          <tags>removeOnHide</tags>
-        </children>
-        <children xsi:type="basic:Part" xmi:id="_PYZ0mtSJEeiHKcXJQg-Btw" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="threading" iconURI="platform:/plugin/org.python.pydev.shared_ui/icons/python_file.gif" closeable="true">
-          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xA;&lt;editor id=&quot;org.python.pydev.editor.PythonEditor&quot; name=&quot;threading.py&quot; partName=&quot;threading&quot; title=&quot;threading&quot; tooltip=&quot;/Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/threading.py&quot;>&#xA;&lt;input factoryID=&quot;org.eclipse.ui.ide.FileStoreEditorInputFactory&quot; uri=&quot;file:/Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/threading.py&quot;/>&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;0&quot; selectionOffset=&quot;32139&quot; selectionTopPixel=&quot;12586&quot;/>&#xA;&lt;/editor>"/>
-          <tags>Editor</tags>
-          <tags>org.python.pydev.editor.PythonEditor</tags>
-          <tags>removeOnHide</tags>
-        </children>
-        <children xsi:type="basic:Part" xmi:id="_PYZ0m9SJEeiHKcXJQg-Btw" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="smtplib" iconURI="platform:/plugin/org.python.pydev.shared_ui/icons/python_file.gif" closeable="true">
-          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xA;&lt;editor id=&quot;org.python.pydev.editor.PythonEditor&quot; name=&quot;smtplib.py&quot; partName=&quot;smtplib&quot; title=&quot;smtplib&quot; tooltip=&quot;/Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/smtplib.py&quot;>&#xA;&lt;input factoryID=&quot;org.eclipse.ui.ide.FileStoreEditorInputFactory&quot; uri=&quot;file:/Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/smtplib.py&quot;/>&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;0&quot; selectionOffset=&quot;34343&quot; selectionTopPixel=&quot;12180&quot;/>&#xA;&lt;/editor>"/>
-          <tags>Editor</tags>
-          <tags>org.python.pydev.editor.PythonEditor</tags>
-          <tags>removeOnHide</tags>
-        </children>
-        <children xsi:type="basic:Part" xmi:id="_PYZ0nNSJEeiHKcXJQg-Btw" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="GPIO" iconURI="platform:/plugin/org.python.pydev.shared_ui/icons/python_file.gif" closeable="true">
-          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xA;&lt;editor id=&quot;org.python.pydev.editor.PythonEditor&quot; name=&quot;GPIO.py&quot; partName=&quot;GPIO&quot; title=&quot;GPIO&quot; tooltip=&quot;iot-device/apps/RPi/GPIO.py&quot;>&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/iot-device/apps/RPi/GPIO.py&quot;/>&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;0&quot; selectionOffset=&quot;0&quot; selectionTopPixel=&quot;0&quot;/>&#xA;&lt;/editor>"/>
-          <tags>Editor</tags>
-          <tags>org.python.pydev.editor.PythonEditor</tags>
-          <tags>removeOnHide</tags>
-        </children>
-        <children xsi:type="basic:Part" xmi:id="_PYZ0ndSJEeiHKcXJQg-Btw" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="I2CSenseHatAdaptor" iconURI="platform:/plugin/org.python.pydev.shared_ui/icons/python_file.gif" closeable="true">
-          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xA;&lt;editor id=&quot;org.python.pydev.editor.PythonEditor&quot; name=&quot;I2CSenseHatAdaptor.py&quot; partName=&quot;I2CSenseHatAdaptor&quot; title=&quot;I2CSenseHatAdaptor&quot; tooltip=&quot;iot-device/apps/labs/module04/I2CSenseHatAdaptor.py&quot;>&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/iot-device/apps/labs/module04/I2CSenseHatAdaptor.py&quot;/>&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;0&quot; selectionOffset=&quot;2804&quot; selectionTopPixel=&quot;14&quot;/>&#xA;&lt;/editor>"/>
-          <tags>Editor</tags>
-          <tags>org.python.pydev.editor.PythonEditor</tags>
-          <tags>removeOnHide</tags>
-          <menus xsi:type="menu:PopupMenu" xmi:id="_PYZ0ntSJEeiHKcXJQg-Btw" elementId="#PyEditContext">
-            <tags>menuContribution:popup</tags>
-            <tags>popup:#PyEditContext</tags>
-            <tags>popup:org.python.pydev.editor.PythonEditor.EditorContext</tags>
-            <tags>popup:#AbstractTextEditorContext</tags>
-          </menus>
-          <menus xsi:type="menu:PopupMenu" xmi:id="_PYZ0n9SJEeiHKcXJQg-Btw" elementId="#PyEditRulerContext">
-            <tags>menuContribution:popup</tags>
-            <tags>popup:#PyEditRulerContext</tags>
-            <tags>popup:org.python.pydev.editor.PythonEditor.RulerContext</tags>
-            <tags>popup:#AbstractTextEditorRulerContext</tags>
-          </menus>
-          <menus xsi:type="menu:PopupMenu" xmi:id="_PYZ0oNSJEeiHKcXJQg-Btw" elementId="#OverviewRulerContext">
-            <tags>menuContribution:popup</tags>
-            <tags>popup:#OverviewRulerContext</tags>
-          </menus>
-        </children>
-        <children xsi:type="basic:Part" xmi:id="_PYZ0odSJEeiHKcXJQg-Btw" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="SensorReaderApp" iconURI="platform:/plugin/org.python.pydev.shared_ui/icons/python_file.gif" closeable="true">
-          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xA;&lt;editor id=&quot;org.python.pydev.editor.PythonEditor&quot; name=&quot;SensorReaderApp.py&quot; partName=&quot;SensorReaderApp&quot; title=&quot;SensorReaderApp&quot; tooltip=&quot;iot-device/apps/labs/module04/SensorReaderApp.py&quot;>&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/iot-device/apps/labs/module04/SensorReaderApp.py&quot;/>&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;0&quot; selectionOffset=&quot;443&quot; selectionTopPixel=&quot;0&quot;/>&#xA;&lt;/editor>"/>
-          <tags>Editor</tags>
-          <tags>org.python.pydev.editor.PythonEditor</tags>
-          <tags>removeOnHide</tags>
-        </children>
-        <children xsi:type="basic:Part" xmi:id="_vWxdUNYwEeiUPuOImh9tNQ" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="module04" iconURI="platform:/plugin/org.python.pydev.shared_ui/icons/python_file.gif" closeable="true">
-          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xA;&lt;editor id=&quot;org.python.pydev.editor.PythonEditor&quot; name=&quot;__init__.py&quot; partName=&quot;module04&quot; title=&quot;module04&quot; tooltip=&quot;iot-device/apps/labs/module04/__init__.py&quot;>&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/iot-device/apps/labs/module04/__init__.py&quot;/>&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;0&quot; selectionOffset=&quot;0&quot; selectionTopPixel=&quot;0&quot;/>&#xA;&lt;/editor>"/>
-          <tags>Editor</tags>
-          <tags>org.python.pydev.editor.PythonEditor</tags>
+          <tags>org.eclipse.jdt.ui.CompilationUnitEditor</tags>
           <tags>removeOnHide</tags>
         </children>
       </children>
@@ -505,13 +375,19 @@
         <tags>menuContribution:popup</tags>
         <tags>popup:org.eclipse.jdt.ui.JavadocView</tags>
       </menus>
-      <toolbar xmi:id="_PYZ0r9SJEeiHKcXJQg-Btw" elementId="org.eclipse.jdt.ui.JavadocView"/>
+      <toolbar xmi:id="_PYZ0r9SJEeiHKcXJQg-Btw" elementId="org.eclipse.jdt.ui.JavadocView" visible="false"/>
     </sharedElements>
     <sharedElements xsi:type="basic:Part" xmi:id="_PYZ0sNSJEeiHKcXJQg-Btw" elementId="org.eclipse.jdt.ui.SourceView" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView" label="Declaration" iconURI="platform:/plugin/org.eclipse.jdt.ui/icons/full/eview16/source.png" tooltip="" closeable="true">
       <persistedState key="originalCompatibilityViewClass" value="org.eclipse.jdt.internal.ui.infoviews.SourceView"/>
       <persistedState key="originalCompatibilityViewBundle" value="org.eclipse.jdt.ui"/>
+      <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xA;&lt;view/>"/>
       <tags>View</tags>
       <tags>categoryTag:Java</tags>
+      <menus xmi:id="_QIYa4Oq5EeiGTp-AyCokUw" elementId="org.eclipse.jdt.ui.SourceView">
+        <tags>ViewMenu</tags>
+        <tags>menuContribution:menu</tags>
+      </menus>
+      <toolbar xmi:id="_QIYa4eq5EeiGTp-AyCokUw" elementId="org.eclipse.jdt.ui.SourceView" visible="false"/>
     </sharedElements>
     <sharedElements xsi:type="basic:Part" xmi:id="_PYZ0sdSJEeiHKcXJQg-Btw" elementId="org.eclipse.search.ui.views.SearchView" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView" label="Search" iconURI="platform:/plugin/org.eclipse.search/icons/full/eview16/searchres.png" tooltip="" closeable="true">
       <persistedState key="originalCompatibilityViewClass" value="org.eclipse.search2.internal.ui.SearchView"/>
@@ -525,11 +401,13 @@
       <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xA;&lt;view/>"/>
       <tags>View</tags>
       <tags>categoryTag:General</tags>
+      <tags>active</tags>
+      <tags>activeOnClose</tags>
       <menus xmi:id="_PYZ0s9SJEeiHKcXJQg-Btw" elementId="org.eclipse.ui.console.ConsoleView">
         <tags>ViewMenu</tags>
         <tags>menuContribution:menu</tags>
       </menus>
-      <toolbar xmi:id="_PYZ0tNSJEeiHKcXJQg-Btw" elementId="org.eclipse.ui.console.ConsoleView" visible="false"/>
+      <toolbar xmi:id="_PYZ0tNSJEeiHKcXJQg-Btw" elementId="org.eclipse.ui.console.ConsoleView"/>
     </sharedElements>
     <sharedElements xsi:type="basic:Part" xmi:id="_PYZ0tdSJEeiHKcXJQg-Btw" elementId="org.eclipse.ui.views.BookmarkView" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView" label="Bookmarks" iconURI="platform:/plugin/org.eclipse.ui.ide/icons/full/eview16/bkmrk_nav.png" tooltip="" closeable="true">
       <persistedState key="originalCompatibilityViewClass" value="org.eclipse.ui.internal.views.markers.BookmarksView"/>
@@ -602,7 +480,7 @@
     <sharedElements xsi:type="basic:Part" xmi:id="_PYZ00dSJEeiHKcXJQg-Btw" elementId="org.python.pydev.navigator.view" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView" label="PyDev Package Explorer" iconURI="platform:/plugin/org.python.pydev.shared_ui/icons/pydev_package_explorer.gif" tooltip="" closeable="true">
       <persistedState key="originalCompatibilityViewClass" value="org.python.pydev.navigator.ui.PydevPackageExplorer"/>
       <persistedState key="originalCompatibilityViewBundle" value="org.python.pydev"/>
-      <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xA;&lt;view CommonNavigator.LINKING_ENABLED=&quot;0&quot; currentWorkingSetName=&quot;Aggregate for window 1536422044239&quot; org.eclipse.ui.navigator.resources.workingSets.showTopLevelWorkingSets=&quot;0&quot;>&#xA;&lt;expanded IMemento.internal.id=&quot;/Users/rocky_yan/eclipse-workspace-Connected Devices/iot-device&quot;/>&#xA;&lt;expanded IMemento.internal.id=&quot;/Users/rocky_yan/eclipse-workspace-Connected Devices/iot-device/apps&quot;/>&#xA;&lt;expanded IMemento.internal.id=&quot;/Users/rocky_yan/eclipse-workspace-Connected Devices/iot-device/apps/labs&quot;/>&#xA;&lt;expanded IMemento.internal.id=&quot;/Users/rocky_yan/eclipse-workspace-Connected Devices/iot-device/apps/labs/common&quot;/>&#xA;&lt;expanded IMemento.internal.id=&quot;/Users/rocky_yan/eclipse-workspace-Connected Devices/iot-device/apps/labs/module04&quot;/>&#xA;&lt;expanded IMemento.internal.id=&quot;/Users/rocky_yan/eclipse-workspace-Connected Devices/iot-device/apps/labs/module04/I2CSenseHatAdaptor.py&quot;/>&#xA;&lt;expanded IMemento.internal.id=&quot;/Users/rocky_yan/eclipse-workspace-Connected Devices/iot-device/data&quot;/>&#xA;&lt;selected IMemento.internal.id=&quot;/Users/rocky_yan/eclipse-workspace-Connected Devices/iot-device/apps/labs/common/ConfigUtil.py&quot;/>&#xA;&lt;lastRecentlyUsedFilters/>&#xA;&lt;/view>"/>
+      <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xA;&lt;view CommonNavigator.LINKING_ENABLED=&quot;0&quot; currentWorkingSetName=&quot;Aggregate for window 1536422044239&quot; org.eclipse.ui.navigator.resources.workingSets.showTopLevelWorkingSets=&quot;0&quot;>&#xA;&lt;expanded IMemento.internal.id=&quot;/Users/rocky_yan/eclipse-workspace-Connected Devices/iot-gateway&quot;/>&#xA;&lt;expanded IMemento.internal.id=&quot;/Users/rocky_yan/eclipse-workspace-Connected Devices/iot-gateway/src&quot;/>&#xA;&lt;expanded IMemento.internal.id=&quot;/Users/rocky_yan/eclipse-workspace-Connected Devices/iot-gateway/src/main&quot;/>&#xA;&lt;expanded IMemento.internal.id=&quot;/Users/rocky_yan/eclipse-workspace-Connected Devices/iot-gateway/src/main/java&quot;/>&#xA;&lt;expanded IMemento.internal.id=&quot;/Users/rocky_yan/eclipse-workspace-Connected Devices/iot-gateway/src/test&quot;/>&#xA;&lt;selected IMemento.internal.id=&quot;/Users/rocky_yan/eclipse-workspace-Connected Devices/iot-gateway/src/main/java/module6&quot;/>&#xA;&lt;lastRecentlyUsedFilters/>&#xA;&lt;/view>"/>
       <tags>View</tags>
       <tags>categoryTag:PyDev</tags>
       <menus xmi:id="_PYZ00tSJEeiHKcXJQg-Btw" elementId="org.python.pydev.navigator.view">
@@ -690,7 +568,7 @@
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_PYZ1BNSJEeiHKcXJQg-Btw" elementId="org.eclipse.ui.workbench.file">
         <tags>Draggable</tags>
-        <children xsi:type="menu:HandledToolItem" xmi:id="_eA_g8OErEeimZ9ltnz1XDQ" elementId="print" visible="false" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/print_edit.png" tooltip="Print" command="_PYgitdSJEeiHKcXJQg-Btw"/>
+        <children xsi:type="menu:HandledToolItem" xmi:id="_DNUMUOxeEeiyn-tSMVfAWA" elementId="print" visible="false" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/print_edit.png" tooltip="Print" command="_PYgitdSJEeiHKcXJQg-Btw"/>
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_PYZ1EdSJEeiHKcXJQg-Btw" elementId="group.edit" toBeRendered="false">
         <tags>toolbarSeparator</tags>
@@ -706,20 +584,20 @@
       <children xsi:type="menu:ToolBar" xmi:id="_PYZ1Q9SJEeiHKcXJQg-Btw" elementId="com.python.pydev.debug.actionSet" visible="false">
         <tags>Draggable</tags>
       </children>
-      <children xsi:type="menu:ToolBar" xmi:id="_PYZ1RNSJEeiHKcXJQg-Btw" elementId="org.eclipse.ui.edit.text.actionSet.presentation" visible="false">
+      <children xsi:type="menu:ToolBar" xmi:id="_PYZ1RNSJEeiHKcXJQg-Btw" elementId="org.eclipse.ui.edit.text.actionSet.presentation">
         <tags>Draggable</tags>
         <children xsi:type="menu:HandledToolItem" xmi:id="_PYZ1RdSJEeiHKcXJQg-Btw" elementId="org.eclipse.ui.genericeditor.togglehighlight" visible="false" iconURI="platform:/plugin/org.eclipse.ui.genericeditor/icons/full/etool16/mark_occurrences.png" selected="true" type="Check" command="_PYhJQdSJEeiHKcXJQg-Btw">
           <persistedState key="IIdentifier" value="org.eclipse.ui.genericeditor/org.eclipse.ui.genericeditor.togglehighlight"/>
           <visibleWhen xsi:type="ui:CoreExpression" xmi:id="_PYZ1RtSJEeiHKcXJQg-Btw" coreExpressionId="programmatic.value"/>
         </children>
       </children>
-      <children xsi:type="menu:ToolBar" xmi:id="_PYZ1R9SJEeiHKcXJQg-Btw" elementId="com.python.pydev.navigate.actionSet">
+      <children xsi:type="menu:ToolBar" xmi:id="_PYZ1R9SJEeiHKcXJQg-Btw" elementId="com.python.pydev.navigate.actionSet" visible="false">
         <tags>Draggable</tags>
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_PYZ1StSJEeiHKcXJQg-Btw" elementId="org.eclipse.debug.ui.launchActionSet">
         <tags>Draggable</tags>
       </children>
-      <children xsi:type="menu:ToolBar" xmi:id="_PYZ1T9SJEeiHKcXJQg-Btw" elementId="org.eclipse.jdt.ui.JavaElementCreationActionSet" visible="false">
+      <children xsi:type="menu:ToolBar" xmi:id="_PYZ1T9SJEeiHKcXJQg-Btw" elementId="org.eclipse.jdt.ui.JavaElementCreationActionSet">
         <tags>Draggable</tags>
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_PYZ1UNSJEeiHKcXJQg-Btw" elementId="org.eclipse.search.searchActionSet">
@@ -731,7 +609,7 @@
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_PYZ1VtSJEeiHKcXJQg-Btw" elementId="org.eclipse.ui.workbench.navigate">
         <tags>Draggable</tags>
-        <children xsi:type="menu:HandledToolItem" xmi:id="_eBB9MOErEeimZ9ltnz1XDQ" elementId="org.eclipse.ui.window.pinEditor" visible="false" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/pin_editor.png" tooltip="Pin Editor" type="Check" command="_PYgiJ9SJEeiHKcXJQg-Btw"/>
+        <children xsi:type="menu:HandledToolItem" xmi:id="_DNWokOxeEeiyn-tSMVfAWA" elementId="org.eclipse.ui.window.pinEditor" visible="false" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/pin_editor.png" tooltip="Pin Editor" type="Check" command="_PYgiJ9SJEeiHKcXJQg-Btw"/>
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_PYZ1YdSJEeiHKcXJQg-Btw" elementId="group.editor" toBeRendered="false">
         <tags>toolbarSeparator</tags>
@@ -775,6 +653,10 @@
         <tags>TrimStack</tags>
         <tags>Draggable</tags>
       </children>
+      <children xsi:type="menu:ToolControl" xmi:id="_Ctv7kOrWEeiGTp-AyCokUw" elementId="left(IDEWindow).(org.eclipse.jdt.ui.JavaPerspective)" toBeRendered="false" contributionURI="bundleclass://org.eclipse.e4.ui.workbench.addons.swt/org.eclipse.e4.ui.workbench.addons.minmax.TrimStack">
+        <tags>TrimStack</tags>
+        <tags>Draggable</tags>
+      </children>
     </trimBars>
     <trimBars xmi:id="_PYZ1hdSJEeiHKcXJQg-Btw" elementId="org.eclipse.ui.trim.vertical2" toBeRendered="false" side="Right">
       <children xsi:type="menu:ToolControl" xmi:id="_PYZ1htSJEeiHKcXJQg-Btw" elementId="org.eclipse.ui.ide.perspectivestack(minimized)" toBeRendered="false" contributionURI="bundleclass://org.eclipse.e4.ui.workbench.addons.swt/org.eclipse.e4.ui.workbench.addons.minmax.TrimStack">
@@ -796,6 +678,22 @@
         <tags>Draggable</tags>
       </children>
       <children xsi:type="menu:ToolControl" xmi:id="_PYZ1itSJEeiHKcXJQg-Btw" elementId="PartStack@2a906344(IDEWindow).(org.python.pydev.ui.PythonPerspective)" toBeRendered="false" contributionURI="bundleclass://org.eclipse.e4.ui.workbench.addons.swt/org.eclipse.e4.ui.workbench.addons.minmax.TrimStack">
+        <tags>TrimStack</tags>
+        <tags>Draggable</tags>
+      </children>
+      <children xsi:type="menu:ToolControl" xmi:id="_Ct7hwOrWEeiGTp-AyCokUw" elementId="org.eclipse.mylyn.tasks.ui.views.tasksMStack(IDEWindow).(org.eclipse.jdt.ui.JavaPerspective)" toBeRendered="false" contributionURI="bundleclass://org.eclipse.e4.ui.workbench.addons.swt/org.eclipse.e4.ui.workbench.addons.minmax.TrimStack">
+        <tags>TrimStack</tags>
+        <tags>Draggable</tags>
+      </children>
+      <children xsi:type="menu:ToolControl" xmi:id="_Ct_MIOrWEeiGTp-AyCokUw" elementId="right(IDEWindow).(org.eclipse.jdt.ui.JavaPerspective)" toBeRendered="false" contributionURI="bundleclass://org.eclipse.e4.ui.workbench.addons.swt/org.eclipse.e4.ui.workbench.addons.minmax.TrimStack">
+        <tags>TrimStack</tags>
+        <tags>Draggable</tags>
+      </children>
+      <children xsi:type="menu:ToolControl" xmi:id="_CuDdkOrWEeiGTp-AyCokUw" elementId="bottom(IDEWindow).(org.eclipse.jdt.ui.JavaPerspective)" toBeRendered="false" contributionURI="bundleclass://org.eclipse.e4.ui.workbench.addons.swt/org.eclipse.e4.ui.workbench.addons.minmax.TrimStack">
+        <tags>TrimStack</tags>
+        <tags>Draggable</tags>
+      </children>
+      <children xsi:type="menu:ToolControl" xmi:id="_ptUTQO1iEeiyn-tSMVfAWA" elementId="org.eclipse.ui.editorss(IDEWindow).(org.eclipse.jdt.ui.JavaPerspective)" toBeRendered="false" contributionURI="bundleclass://org.eclipse.e4.ui.workbench.addons.swt/org.eclipse.e4.ui.workbench.addons.minmax.TrimStack">
         <tags>TrimStack</tags>
         <tags>Draggable</tags>
       </children>
@@ -1197,7 +1095,7 @@
       <parameters xmi:id="_PYZ2ddSJEeiHKcXJQg-Btw" elementId="org.eclipse.ui.views.showView.viewId" name="org.eclipse.ui.views.showView.viewId" value="org.eclipse.ui.console.ConsoleView"/>
     </bindings>
     <bindings xmi:id="_PYZ2dtSJEeiHKcXJQg-Btw" keySequence="ALT+COMMAND+R" command="_PYhwndSJEeiHKcXJQg-Btw"/>
-    <bindings xmi:id="_dtBcEeErEeimZ9ltnz1XDQ" keySequence="COMMAND+CTRL+F" command="_PYhKGNSJEeiHKcXJQg-Btw"/>
+    <bindings xmi:id="_C7L6gexeEeiyn-tSMVfAWA" keySequence="COMMAND+CTRL+F" command="_PYhKGNSJEeiHKcXJQg-Btw"/>
   </bindingTables>
   <bindingTables xmi:id="_PYZ2eNSJEeiHKcXJQg-Btw" elementId="org.eclipse.debug.ui.debugging" bindingContext="_PYZ3YNSJEeiHKcXJQg-Btw">
     <bindings xmi:id="_PYZ2edSJEeiHKcXJQg-Btw" keySequence="COMMAND+F2" command="_PYgictSJEeiHKcXJQg-Btw"/>
@@ -1373,7 +1271,7 @@
     <bindings xmi:id="_PYZ25dSJEeiHKcXJQg-Btw" keySequence="ALT+CR" command="_PYbEQNSJEeiHKcXJQg-Btw"/>
   </bindingTables>
   <bindingTables xmi:id="_PYZ25tSJEeiHKcXJQg-Btw" contributorURI="platform:/fragment/org.eclipse.e4.ui.workbench.renderers.swt.cocoa" bindingContext="_PYZ3aNSJEeiHKcXJQg-Btw">
-    <bindings xmi:id="_dtBcEuErEeimZ9ltnz1XDQ" keySequence="M1+W" command="_PYhKGtSJEeiHKcXJQg-Btw"/>
+    <bindings xmi:id="_C7MhkOxeEeiyn-tSMVfAWA" keySequence="M1+W" command="_PYhKGtSJEeiHKcXJQg-Btw"/>
   </bindingTables>
   <bindingTables xmi:id="_PYZ26NSJEeiHKcXJQg-Btw" bindingContext="_PYZ3btSJEeiHKcXJQg-Btw"/>
   <bindingTables xmi:id="_PYZ26dSJEeiHKcXJQg-Btw" bindingContext="_PYZ3b9SJEeiHKcXJQg-Btw"/>

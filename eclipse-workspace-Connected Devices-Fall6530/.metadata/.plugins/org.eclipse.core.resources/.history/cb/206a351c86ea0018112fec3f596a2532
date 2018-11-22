@@ -1,0 +1,5 @@
+package ConnectedDevicesGateway.labs.module06;
+
+public class MqttPubClientTestApp {
+
+}

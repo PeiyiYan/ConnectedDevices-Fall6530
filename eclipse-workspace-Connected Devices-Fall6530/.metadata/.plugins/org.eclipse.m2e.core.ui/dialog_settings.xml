@@ -2,6 +2,7 @@
 <section name="Workbench">
 	<section name="MavenProjectWizardArtifactPage">
 		<list key="groupId">
+			<item value="org.peiyiyan.iot"/>
 			<item value="org.PeiyiYan.iot"/>
 		</list>
 		<list key="name">

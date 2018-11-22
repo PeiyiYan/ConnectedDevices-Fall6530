@@ -29,16 +29,16 @@ MQTT_CLOUD_SECTION  = MQTT + SECTION_SEPARATOR + CLOUD
 #CLOUD_MQTT_PORT ='mqttPort'
 #CLOUD_COAP_HOST ='coapHost'
 #CLOUD_COAP_PORT ='coapPort'
-FROM_ADDRESS_KEY = 'fromAddr'
-TO_ADDRESS_KEY = 'toAddr'
+FROM_ADDRESS_KEY = 'connecteddevice@163.com'
+TO_ADDRESS_KEY = 'peiyiyan0328@gmail.com'
 #TO_MEDIA_ADDRESS_KEY  = 'toMediaAddr'
 #TO_TXT_ADDRESS_KEY  = 'toTxtAddr'
-HOST_KEY = 'host'
-PORT_KEY = 'port'
+HOST_KEY = 'smtp.163.com'
+PORT_KEY = '587'
 #SECURE_PORT_KEY = 'securePort'
 
 #USER_NAME_TOKEN_KEY = 'userNameToken'
-USER_AUTH_TOKEN_KEY = 'authToken '
+USER_AUTH_TOKEN_KEY = 'coco20091101'
 #ENABLE_AUTH_KEY     = 'enableAuth'
 #ENABLE_CRYPT_KEY    = 'enableCrypt'
 #ENABLE_EMULATOR_KEY = 'enableEmulator'
@@ -47,4 +47,3 @@ USER_AUTH_TOKEN_KEY = 'authToken '
 
 DEVICE_SECTION = DEVICE
 NOMINALTEMP    = '20'
-

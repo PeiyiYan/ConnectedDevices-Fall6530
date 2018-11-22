@@ -1,0 +1,5 @@
+package iotConnectedDevicesGateway.labs.module8;
+
+public class TempActuatorPublisherAPP {
+
+}
